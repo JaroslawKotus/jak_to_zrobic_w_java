@@ -26,7 +26,6 @@
 * By.tagName - locates elements by their tag name
 * By.xpath - locates elements via XPath
 
-```
 <footer>
 	<div class="container">
 		<div class="row">
@@ -45,6 +44,7 @@
 		</div>
 	</div>
 </footer>
+branch1
 ```  
 
 ### Przykłady selektorów css
