@@ -13,7 +13,7 @@
  2. Pobierz wersję Community (jest darmowa) dla Windows
  3. Otwórz poprany plik i zainstaluj aplikację (można zostawić wszystkie ustawienia domyślne, nie powinno to stanowić problemu)
 
-# Wyszukiwanie elemntów z wykorzystaniem Selenium 
+# Wyszukiwanie elementów z wykorzystaniem Selenium 
 
 ## Objekt By
 
